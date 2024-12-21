@@ -1,2 +1,0 @@
-# alishan.info
-My website
